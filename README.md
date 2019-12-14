@@ -1,5 +1,15 @@
 # 알고리즘 문제 리스트 
 
+## 12.14
+* [프로그래머스 : 타일장식물](https://programmers.co.kr/learn/courses/30/lessons/43104)
+* [Leetcode : House robber](https://leetcode.com/problems/house-robber/)
+* [Leetcode : Maximum sum of 3 non overlapping subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/)
+
+## 12.07
+* [프로그래머스 : 가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)
+* [Leetcode : All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)
+* [Leetcode : Minimum depth of binary tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+
 ## 11.29
 * [프로그래머스 : 영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)
 * [Leetcode : Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
